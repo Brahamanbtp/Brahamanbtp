@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **Full stack development and 3d modelling**
 
 - 📫 How to reach me **brahamanbtp@gmail.com**
+- 📫 How to reach me **pranaysharma5626@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
