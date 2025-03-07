@@ -87,5 +87,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=brahamanbtp&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=brahamanbtp" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=brahamanbtp" alt="GitHub Streak" />
 </p>
