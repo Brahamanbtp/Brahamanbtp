@@ -10,7 +10,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=brahamanbtp" alt="GitHub Trophies" />
   </a>
 </p>
-
 - 🌱 Currently learning **Full Stack Development and 3D Modeling**
 - 📫 Reach me at **brahamanbtp@gmail.com** or **pranaysharma5626@gmail.com**
 
