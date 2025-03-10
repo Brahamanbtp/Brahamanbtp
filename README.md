@@ -10,8 +10,12 @@
     <img src="https://github-profile-trophy.vercel.app/?username=brahamanbtp" alt="GitHub Trophies" />
   </a>
 </p>
+
 - 🌱 Currently learning **Full Stack Development and 3D Modeling**
 - 📫 Reach me at **brahamanbtp@gmail.com** or **pranaysharma5626@gmail.com**
+- 💬 Ask me about **Frontend Development, 3D Modeling, or anything tech-related**
+- 📄 Know about my experiences [Resume](#)
+- ⚡ Fun fact **I love exploring new technologies and building cool stuff!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,6 +24,12 @@
   </a>
   <a href="https://medium.com/@brahamanbtp" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/yourusername" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/yourusername" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
@@ -76,6 +86,15 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
   </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
@@ -88,3 +107,18 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.vercel.app/?user=brahamanbtp" alt="GitHub Streak" />
 </p>
+
+<h3 align="left">Latest Blog Posts:</h3>
+<p align="left">
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
+  <a href="https://medium.com/@brahamanbtp">View more blog posts</a>
+</p>
+
+<h3 align="left">Support:</h3>
+<p align="left">
+  <a href="https://www.buymeacoffee.com/brahamanbtp">
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
+  </a>
+</p>
+<br><br>
