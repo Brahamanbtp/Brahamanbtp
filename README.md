@@ -114,11 +114,4 @@
   <!-- BLOG-POST-LIST:END -->
   <a href="https://medium.com/@brahamanbtp">View more blog posts</a>
 </p>
-
-<h3 align="left">Support:</h3>
-<p align="left">
-  <a href="https://www.buymeacoffee.com/brahamanbtp">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
-  </a>
-</p>
 <br><br>
