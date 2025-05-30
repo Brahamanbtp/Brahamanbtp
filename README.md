@@ -45,8 +45,7 @@
 | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) |
 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) |
 | ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) | ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white) |
-| ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white) |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white) | ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white) |
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white) | ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white) |
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) |
 
 ---
