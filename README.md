@@ -11,6 +11,7 @@
 ### 🌱 Currently Learning
 - Full Stack Development
 - 3D Modeling
+- CyberSecurity 
 
 ### 📫 Reach Me At
 - 📧 `brahamanbtp@gmail.com`
