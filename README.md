@@ -20,6 +20,7 @@
 ### 💬 Ask Me About
 - Frontend Development
 - 3D Modeling
+- CyberSecurity
 - Anything Tech-related
 
 ### 📄 Resume
